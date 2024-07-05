@@ -3,7 +3,7 @@ import './App.css';
 import React, { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Input from 'react-bootstrap/'
-import { BrowserRouter as Router, Route, Routes, useNavigate } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes, useNavigate } from 'react-router-dom';
 
 import oponents from './oponents.png';
 import mapa1 from './mapa1.jpg';
