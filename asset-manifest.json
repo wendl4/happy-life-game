@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/github.io/happy-life-game/static/css/main.e591ccf1.css",
+    "main.js": "/github.io/happy-life-game/static/js/main.08a00c4b.js",
+    "static/js/453.53b37eab.chunk.js": "/github.io/happy-life-game/static/js/453.53b37eab.chunk.js",
+    "static/media/mapa2.png": "/github.io/happy-life-game/static/media/mapa2.31a9ec103f71db8f4cf1.png",
+    "static/media/pacman.webp": "/github.io/happy-life-game/static/media/pacman.42184e33d9af2cafe6ce.webp",
+    "static/media/skull.png": "/github.io/happy-life-game/static/media/skull.e92b1389ed765b20f85f.png",
+    "static/media/mapa1.jpg": "/github.io/happy-life-game/static/media/mapa1.e5e54c8b353ca879610d.jpg",
+    "static/media/oponents.png": "/github.io/happy-life-game/static/media/oponents.3cdae15f79bb4ae3121a.png",
+    "static/media/logo.svg": "/github.io/happy-life-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/happy-life-game/index.html",
+    "main.e591ccf1.css.map": "/github.io/happy-life-game/static/css/main.e591ccf1.css.map",
+    "main.08a00c4b.js.map": "/github.io/happy-life-game/static/js/main.08a00c4b.js.map",
+    "453.53b37eab.chunk.js.map": "/github.io/happy-life-game/static/js/453.53b37eab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e591ccf1.css",
+    "static/js/main.08a00c4b.js"
+  ]
+}
