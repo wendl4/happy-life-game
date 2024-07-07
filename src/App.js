@@ -6,7 +6,7 @@ import Input from 'react-bootstrap/'
 import { HashRouter as Router, Route, Routes, useNavigate } from 'react-router-dom';
 
 import oponents from './oponents.png';
-import mapa1 from './mapa1.jpg';
+import mapa1 from './mapa1.png';
 import mapa2 from './mapa2.png';
 import skull from './skull.png';
 
@@ -319,6 +319,7 @@ const Level10Page = () => {
         <br></br>
       </div>
       <br></br> 
+      <Button>Ďalej</Button>
     </div>
   );
 };
